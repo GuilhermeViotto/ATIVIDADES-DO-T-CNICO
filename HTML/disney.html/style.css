@@ -1,0 +1,19 @@
+body {
+
+    background-color: rgb(36, 13, 75);
+    background: linear-gradient(rgb(36, 13, 75),rgb(236, 230, 238));
+}
+
+
+.videos {
+    display: flex;
+}
+
+.img1 {
+    padding: 10px;
+}
+
+.videos2 {
+
+    display: flex;
+}

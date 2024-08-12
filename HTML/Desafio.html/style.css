@@ -1,0 +1,15 @@
+.butao button{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(108, 223, 177);
+    margin: 20%;
+    transition: all 0.6s;
+    border: none
+}
+.butao :hover{
+    transform: rotate(10deg) skew(20deg) scale(1.3);
+
+
+
+
+}

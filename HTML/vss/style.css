@@ -1,0 +1,17 @@
+html{ 
+
+background-color: hwb(180 0% 95%);
+background: linear-gradient(hwb(180 0% 95%), rgb(47, 65, 3));
+}
+
+.letra{
+
+color: rgb(194, 219, 226);
+
+}
+
+.foto{
+
+width: 850px;
+
+}
