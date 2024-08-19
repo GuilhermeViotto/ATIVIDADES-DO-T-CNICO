@@ -1,0 +1,149 @@
+body{
+    background-color: #d6f9e0;
+    margin: 0;
+}
+.botoes{
+    text-align: center;
+    list-style-type: none;
+    padding: 50px;
+    overflow: hidden;
+    background-color: #8aaa93;
+    
+    
+}
+
+.botoes button{
+    width: 70,0px;
+    height: 70px;
+    font-size: large;
+    border-radius: 50px;
+}
+
+.but1{
+    background-color: #26251c;
+    transition: all 0.6s;
+    color: white;
+}
+.but1:hover{
+    transform: scale(1.8);  
+}
+.but2{
+    background-color:#eb0a44;
+    transition: all 0.6s;
+    color: white;
+}
+.but2:hover{
+    transform: rotate(40deg);
+}
+.but3{
+    background-color:#f2643d;
+    color: white;
+    transition: all 0.6;
+}
+.but3:hover{
+    transform: skew(80deg);
+}
+.but4{
+    background-color:#f2a73d;
+    transition: all 0.6s;
+    color: white;
+}
+.but4:hover{
+    transform: matrix(-1,3,5,-4,7,6);
+}
+.but5{
+    background-color: #a0e8b7;
+    transition: all 0.6s;
+    color: white;
+}
+.but5:hover{
+    transform: perspective(200cm) rotateX(-200deg) rotateY(200deg);
+}
+.but6{
+    background-color: #028f76;
+    color: white;
+    transition: all 0.6s;
+}
+.but6:hover{
+    transform: translate(100px,100px);
+}
+.but7{
+    background-color: #b3e099;
+    color: white;
+    transition: all 0.6s;
+}
+.but7:hover{
+    transform: matrix(-1,-2,-3,-4,-5,-5) translate(50px,50px);
+}
+.but8{
+    background-color: #ffeaad;
+    color: white;
+    transition: all 0.6s;
+}
+.but8:hover{
+    transform: rotate(50deg) translate(100px, 100px) ;
+}
+.but9{
+    background-color: #f0f0d8;
+    color: white;
+    transition: all 0.6s;
+}
+.but9:hover{
+    transform: skew(50deg) translate(80px, 80px)  ;
+}
+.but10{
+    background-color: #f5e1e2;
+    color: white;
+    transition: all 0.6s;
+}
+.but10:hover{
+    transform: scale(1.5) skew(10deg) perspective(200cm) rotateX(300deg) rotateY(300deg) translate(10px, 10px) matrix(1,2,3,5,6,80);
+}
+.caixaex{
+    text-align: center;
+    font-size: large;
+}
+.container{
+    display: flex;
+    
+}
+.box{
+    flex: 1;
+    border:8px dotted black;
+    padding: 15px;
+    border-left: 5px;
+
+
+}
+.b1{
+    color:#042002;
+}
+.b2{
+    color:#042002;
+}
+.b3{
+    color:#042002;
+}
+.b4{
+    color:#042002;
+}
+.b5{
+    color:#042002;
+}
+.b6{
+    color:#042002;
+  
+}
+.b7{
+    color:#042002;
+}
+.b8{
+    color:#042002;
+}
+.b9{
+    color:#042002;
+}
+.b10{
+    color:#042002;
+   
+}
